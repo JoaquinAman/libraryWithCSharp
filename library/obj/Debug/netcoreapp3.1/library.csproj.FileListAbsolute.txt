@@ -1,0 +1,14 @@
+/home/bootcamp/Desktop/Fullstack/Backend 1/homework/library/bin/Debug/netcoreapp3.1/library
+/home/bootcamp/Desktop/Fullstack/Backend 1/homework/library/bin/Debug/netcoreapp3.1/library.deps.json
+/home/bootcamp/Desktop/Fullstack/Backend 1/homework/library/bin/Debug/netcoreapp3.1/library.runtimeconfig.json
+/home/bootcamp/Desktop/Fullstack/Backend 1/homework/library/bin/Debug/netcoreapp3.1/library.runtimeconfig.dev.json
+/home/bootcamp/Desktop/Fullstack/Backend 1/homework/library/bin/Debug/netcoreapp3.1/library.dll
+/home/bootcamp/Desktop/Fullstack/Backend 1/homework/library/bin/Debug/netcoreapp3.1/library.pdb
+/home/bootcamp/Desktop/Fullstack/Backend 1/homework/library/obj/Debug/netcoreapp3.1/library.csproj.AssemblyReference.cache
+/home/bootcamp/Desktop/Fullstack/Backend 1/homework/library/obj/Debug/netcoreapp3.1/library.GeneratedMSBuildEditorConfig.editorconfig
+/home/bootcamp/Desktop/Fullstack/Backend 1/homework/library/obj/Debug/netcoreapp3.1/library.AssemblyInfoInputs.cache
+/home/bootcamp/Desktop/Fullstack/Backend 1/homework/library/obj/Debug/netcoreapp3.1/library.AssemblyInfo.cs
+/home/bootcamp/Desktop/Fullstack/Backend 1/homework/library/obj/Debug/netcoreapp3.1/library.csproj.CoreCompileInputs.cache
+/home/bootcamp/Desktop/Fullstack/Backend 1/homework/library/obj/Debug/netcoreapp3.1/library.dll
+/home/bootcamp/Desktop/Fullstack/Backend 1/homework/library/obj/Debug/netcoreapp3.1/library.pdb
+/home/bootcamp/Desktop/Fullstack/Backend 1/homework/library/obj/Debug/netcoreapp3.1/library.genruntimeconfig.cache
